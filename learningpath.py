@@ -8,14 +8,28 @@ page = requests.get('https://doomhammersupposeserroneously.tumblr.com/post/19023
 soup = BeautifulSoup(page, 'html.parser')
 
 tags = []
-yt_links = []
+yt_iframe = []
+yt_secondary = []
 
 div = soup.find_all('div', attrs={'class': 'tags'})
-for i in div:
-    tags.append(i.text.strip())
+for entry in div:
+    tags.append(entry.text)
+    print(tags)
 
-print(tags)
+songs_links = soup.find_all('iframe')[0]
+yt_iframe.append(songs_links)
 
-div = soup.find_all('div', attrs={'class': 'tags'})
-for i in div:
-    tags.append(i.text.strip())
+print(yt_iframe)
+
+yt = soup.find('meta', attrs={'name': 'twitter:player'})
+yt_secondary.append(yt['content'])
+print(yt_secondary)
+
+
+
+# print(tags)
+#
+# with open('test.txt', 'w') as f:
+#     for i in div:
+#         f.write(str(i.text.strip()))
+#         f.close()
