@@ -1,7 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-import csv
+from get_data import get_data
+
 
 
 # range for subpages
@@ -23,3 +24,6 @@ for page in pages:
         url = link.get('href')
 
         urls.append(url)
+
+for url in urls:
+    print(get_data(url))
