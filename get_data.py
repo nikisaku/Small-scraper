@@ -6,7 +6,6 @@ def get_data(url):
     page = requests.get(url).text
     soup = BeautifulSoup(page, 'html.parser')
 
-    # tags = []
     iframe = []
     yt_secondary = []
 
@@ -33,4 +32,14 @@ def get_data(url):
 
 
 if __name__ == "__main__":
-    print(get_data('https://nikisaku.tumblr.com/post/643205680992485376/test'))
+    raw_data = get_data('https://doomhammersupposeserroneously.tumblr.com/post/190233642834')
+
+    with open("test.md", "w", ) as f:
+        for key, value in raw_data.items():
+            if type(value) is list:
+                f.write(f"---\n"
+                        f"title: {f.name.strip('.md')}\n"
+                        f"{key}: {', '.join(value)}")
+            else:
+                f.write(f"\n---\n{value}")
+                f.close()

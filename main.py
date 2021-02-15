@@ -3,10 +3,8 @@ from bs4 import BeautifulSoup
 import re
 from get_data import get_data
 
-
-
 # range for subpages
-pages = range(1, 56)
+pages = range(1, 2)
 
 # list for post urls
 urls = []
@@ -26,4 +24,14 @@ for page in pages:
         urls.append(url)
 
 for url in urls:
-    print(get_data(url))
+    content = get_data(url)
+
+    with open('yada' + '.md', 'w', encoding='utf-8') as f:
+        for key, value in content.items():
+            if type(value) is list:
+                f.write(f"---\n"
+                        f"title: {f.name.strip('.md')}\n"
+                        f"{key}: {', '.join(value)}")
+            else:
+                f.write(f"\n---\n{value}")
+                f.close()
