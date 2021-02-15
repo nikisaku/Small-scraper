@@ -25,5 +25,5 @@ for page in pages:
 
         urls.append(url)
 
-for entry in urls:
-    print(get_data(entry))
+for url in urls:
+    print(get_data(url))

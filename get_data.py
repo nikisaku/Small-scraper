@@ -21,19 +21,16 @@ def get_data(url):
 
     # print(f"Link YT z kodem html: {iframe}")
 
-    yt = soup.find('meta', attrs={'name': 'twitter:player'})
-    if yt is not None:
-        if 'content' in yt:
-            yt_secondary.append(yt['content'])
+    # yt = soup.find('meta', attrs={'name': 'twitter:player'})
+    # if yt is not None:
+    #     if 'content' in yt:
+    #         yt_secondary.append(yt['content'])
     # print(f"Czysty link do samej piosenki: {yt_secondary}")
 
     entry = {'tags': tags,
-             'iframe': iframe,
-             'yt sec': yt_secondary}
+             'iframe': songs_links}
     return entry
 
 
 if __name__ == "__main__":
-    print(get_data('https://doomhammersupposeserroneously.tumblr.com/post/190233642834'))
-    print(get_data('https://doomhammersupposeserroneously.tumblr.com/post/178079443346/01-eva-zaspany'))
-    print(get_data('https://doomhammersupposeserroneously.tumblr.com/post/184057270392/buzzcocks-ever-fallen-in-love-with-someone-you'))
+    print(get_data('https://nikisaku.tumblr.com/post/643205680992485376/test'))
