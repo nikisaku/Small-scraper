@@ -1,4 +1,4 @@
 ---
 layout: note
-title: X-Rx
+title: '[X]-Rx'
 ---
