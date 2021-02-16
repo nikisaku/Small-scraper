@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Andrew Eldritch
+title: "Andrew Eldritch"
 ---

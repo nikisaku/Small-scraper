@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Andreas Vollenweider
+title: "Andreas Vollenweider"
 ---

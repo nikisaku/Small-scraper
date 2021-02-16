@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Ian Curtis
+title: "Ian Curtis"
 ---

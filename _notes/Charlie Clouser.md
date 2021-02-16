@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Charlie Clouser
+title: "Charlie Clouser"
 ---

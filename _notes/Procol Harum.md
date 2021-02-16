@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Procol Harum
+title: "Procol Harum"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Komercyjna Zbrodnia
+title: "Komercyjna Zbrodnia"
 ---

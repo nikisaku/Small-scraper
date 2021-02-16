@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Krzysztof Oset
+title: "Krzysztof Oset"
 ---

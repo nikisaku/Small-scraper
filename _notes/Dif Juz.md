@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Dif Juz
+title: "Dif Juz"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Andi Sexgang
+title: "Andi Sexgang"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Captain Jack
+title: "Captain Jack"
 ---

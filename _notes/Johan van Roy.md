@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Johan van Roy
+title: "Johan van Roy"
 ---

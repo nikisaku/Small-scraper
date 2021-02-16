@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Lou Reed
+title: "Lou Reed"
 ---

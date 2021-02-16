@@ -1,4 +1,4 @@
 ---
 layout: note
-title: whispering sons
+title: "whispering sons"
 ---

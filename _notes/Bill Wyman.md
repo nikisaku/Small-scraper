@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Bill Wyman
+title: "Bill Wyman"
 ---

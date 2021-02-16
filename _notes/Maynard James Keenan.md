@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Maynard James Keenan
+title: "Maynard James Keenan"
 ---

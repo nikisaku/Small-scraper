@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Jacob Jacobs
+title: "Jacob Jacobs"
 ---

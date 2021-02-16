@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Apoptygma Berzerk
+title: "Apoptygma Berzerk"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Timi Yuro
+title: "Timi Yuro"
 ---

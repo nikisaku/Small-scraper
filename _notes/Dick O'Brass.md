@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Dick O'Brass
+title: "Dick O'Brass"
 ---

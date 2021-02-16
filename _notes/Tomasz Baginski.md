@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Tomasz Bagiński
+title: "Tomasz Bagiński"
 ---

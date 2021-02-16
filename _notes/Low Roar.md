@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Low Roar
+title: "Low Roar"
 ---

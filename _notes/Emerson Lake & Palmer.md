@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Emerson Lake & Palmer
+title: "Emerson Lake & Palmer"
 ---

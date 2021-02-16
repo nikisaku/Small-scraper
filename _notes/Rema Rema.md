@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Rema Rema
+title: "Rema Rema"
 ---

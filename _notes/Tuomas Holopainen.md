@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Tuomas Holopainen
+title: "Tuomas Holopainen"
 ---

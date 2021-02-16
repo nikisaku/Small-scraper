@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Peter Hook
+title: "Peter Hook"
 ---

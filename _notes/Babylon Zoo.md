@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Babylon Zoo
+title: "Babylon Zoo"
 ---

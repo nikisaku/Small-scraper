@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Heinz And The Wild Boys
+title: "Heinz And The Wild Boys"
 ---

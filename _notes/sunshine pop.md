@@ -1,4 +1,4 @@
 ---
 layout: note
-title: sunshine pop
+title: "sunshine pop"
 ---

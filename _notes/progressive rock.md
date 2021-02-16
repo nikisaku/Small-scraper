@@ -1,4 +1,4 @@
 ---
 layout: note
-title: progressive rock
+title: "progressive rock"
 ---

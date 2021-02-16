@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Gene Kelly
+title: "Gene Kelly"
 ---

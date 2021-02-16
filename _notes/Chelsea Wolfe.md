@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Chelsea Wolfe
+title: "Chelsea Wolfe"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Nick Cave & the Bad Seeds
+title: "Nick Cave & the Bad Seeds"
 ---

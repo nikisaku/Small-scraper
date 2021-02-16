@@ -1,4 +1,4 @@
 ---
 layout: note
-title: John Deacon
+title: "John Deacon"
 ---

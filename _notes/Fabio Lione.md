@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Fabio Lione
+title: "Fabio Lione"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Bruno Kramm
+title: "Bruno Kramm"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Trent Reznor
+title: "Trent Reznor"
 ---

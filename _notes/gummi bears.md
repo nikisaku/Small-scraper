@@ -1,4 +1,4 @@
 ---
 layout: note
-title: gummi bears
+title: "gummi bears"
 ---

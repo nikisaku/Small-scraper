@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Assemblage 23
+title: "Assemblage 23"
 ---

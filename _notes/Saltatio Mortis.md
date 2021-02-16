@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Saltatio Mortis
+title: "Saltatio Mortis"
 ---

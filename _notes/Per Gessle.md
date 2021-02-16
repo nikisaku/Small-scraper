@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Per Gessle
+title: "Per Gessle"
 ---

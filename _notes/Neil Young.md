@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Neil Young
+title: "Neil Young"
 ---

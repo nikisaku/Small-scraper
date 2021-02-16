@@ -1,4 +1,4 @@
 ---
 layout: note
-title: David Garrett
+title: "David Garrett"
 ---

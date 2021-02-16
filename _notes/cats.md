@@ -1,4 +1,4 @@
 ---
 layout: note
-title: cats
+title: "cats"
 ---

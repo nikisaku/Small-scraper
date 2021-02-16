@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Conjure One
+title: "Conjure One"
 ---

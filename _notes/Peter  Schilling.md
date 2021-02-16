@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Peter  Schilling
+title: "Peter  Schilling"
 ---

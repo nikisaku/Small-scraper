@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Fine Young Cannibals
+title: "Fine Young Cannibals"
 ---

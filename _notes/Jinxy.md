@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Jinxy
+title: "Jinxy"
 ---

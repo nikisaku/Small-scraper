@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Indios Bravos
+title: "Indios Bravos"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Altın Gün
+title: "Altın Gün"
 ---

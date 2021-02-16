@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Patricia Nigiani
+title: "Patricia Nigiani"
 ---

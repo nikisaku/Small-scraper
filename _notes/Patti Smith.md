@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Patti Smith
+title: "Patti Smith"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Colin Newman
+title: "Colin Newman"
 ---

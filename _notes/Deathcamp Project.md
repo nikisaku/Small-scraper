@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Deathcamp Project
+title: "Deathcamp Project"
 ---

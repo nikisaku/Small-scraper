@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Vini Vici
+title: "Vini Vici"
 ---

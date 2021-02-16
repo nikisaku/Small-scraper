@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Roman Kostrzewski
+title: "Roman Kostrzewski"
 ---

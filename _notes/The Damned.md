@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Damned
+title: "The Damned"
 ---

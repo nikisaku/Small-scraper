@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Tommy Karevik
+title: "Tommy Karevik"
 ---

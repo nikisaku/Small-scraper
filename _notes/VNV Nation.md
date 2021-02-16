@@ -1,4 +1,4 @@
 ---
 layout: note
-title: VNV Nation
+title: "VNV Nation"
 ---

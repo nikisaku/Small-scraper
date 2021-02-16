@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Sarah Brightman
+title: "Sarah Brightman"
 ---

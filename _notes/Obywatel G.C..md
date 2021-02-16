@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Obywatel G.C.
+title: "Obywatel G.C."
 ---

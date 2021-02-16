@@ -1,4 +1,4 @@
 ---
 layout: note
-title: sid-metal
+title: "sid-metal"
 ---

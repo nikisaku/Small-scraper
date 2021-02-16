@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Lefties Soul Connection
+title: "Lefties Soul Connection"
 ---

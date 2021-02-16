@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Alex Møklebust
+title: "Alex Møklebust"
 ---

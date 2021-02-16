@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Wanda Kwietniewska
+title: "Wanda Kwietniewska"
 ---

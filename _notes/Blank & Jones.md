@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Blank & Jones
+title: "Blank & Jones"
 ---

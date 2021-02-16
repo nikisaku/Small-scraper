@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Orphaned Land
+title: "Orphaned Land"
 ---

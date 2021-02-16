@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Gothsicles
+title: "The Gothsicles"
 ---

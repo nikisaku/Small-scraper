@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Freddie Mercury
+title: "Freddie Mercury"
 ---

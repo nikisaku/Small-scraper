@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Tommy Cash
+title: "Tommy Cash"
 ---

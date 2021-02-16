@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Maciej Maleńczuk
+title: "Maciej Maleńczuk"
 ---

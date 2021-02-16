@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Sasza Reznikow
+title: "Sasza Reznikow"
 ---

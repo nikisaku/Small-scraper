@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Rolling Stones
+title: "The Rolling Stones"
 ---

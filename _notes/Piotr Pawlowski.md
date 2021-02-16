@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Piotr Pawłowski
+title: "Piotr Pawłowski"
 ---

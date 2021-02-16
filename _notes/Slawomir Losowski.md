@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Sławomir Łosowski
+title: "Sławomir Łosowski"
 ---

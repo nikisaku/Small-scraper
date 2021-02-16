@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Ray Manzarek
+title: "Ray Manzarek"
 ---

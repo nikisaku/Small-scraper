@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Alena Spanger
+title: "Alena Spanger"
 ---

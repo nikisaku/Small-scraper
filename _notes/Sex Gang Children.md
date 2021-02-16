@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Sex Gang Children
+title: "Sex Gang Children"
 ---

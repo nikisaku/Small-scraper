@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Dreadful Shadows
+title: "Dreadful Shadows"
 ---

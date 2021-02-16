@@ -1,4 +1,4 @@
 ---
 layout: note
-title: power metal
+title: "power metal"
 ---

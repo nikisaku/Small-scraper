@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Classix Nouveaux
+title: "Classix Nouveaux"
 ---

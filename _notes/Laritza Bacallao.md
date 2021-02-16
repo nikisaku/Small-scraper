@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Laritza Bacallao
+title: "Laritza Bacallao"
 ---

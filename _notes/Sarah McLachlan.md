@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Sarah McLachlan
+title: "Sarah McLachlan"
 ---

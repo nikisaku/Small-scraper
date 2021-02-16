@@ -1,4 +1,4 @@
 ---
 layout: note
-title: dark electro
+title: "dark electro"
 ---

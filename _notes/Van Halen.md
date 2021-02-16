@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Van Halen
+title: "Van Halen"
 ---

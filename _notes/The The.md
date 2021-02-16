@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The The
+title: "The The"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: siedem życzeń
+title: "siedem życzeń"
 ---

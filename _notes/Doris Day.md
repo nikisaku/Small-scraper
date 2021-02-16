@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Doris Day
+title: "Doris Day"
 ---

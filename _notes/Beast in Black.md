@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Beast in Black
+title: "Beast in Black"
 ---

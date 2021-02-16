@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Yoko Ono
+title: "Yoko Ono"
 ---

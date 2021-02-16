@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Quidam
+title: "Quidam"
 ---

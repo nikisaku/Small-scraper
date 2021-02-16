@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Powerwolf
+title: "Powerwolf"
 ---

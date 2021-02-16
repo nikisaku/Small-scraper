@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Link Wray
+title: "Link Wray"
 ---

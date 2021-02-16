@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Scooter
+title: "Scooter"
 ---

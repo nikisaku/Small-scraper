@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Herbie Hancock
+title: "Herbie Hancock"
 ---

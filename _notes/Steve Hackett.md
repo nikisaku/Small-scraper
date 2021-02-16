@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Steve Hackett
+title: "Steve Hackett"
 ---

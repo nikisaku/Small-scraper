@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Moon Hooch
+title: "Moon Hooch"
 ---

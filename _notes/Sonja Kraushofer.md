@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Sonja Kraushofer
+title: "Sonja Kraushofer"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Clan of Xymox
+title: "Clan of Xymox"
 ---

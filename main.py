@@ -38,22 +38,22 @@ for page in pages:
         urls.append(url)
 
 # going through every url in urls list to grab tagged and iframe
-for url in urls:
-    content = get_data(url)
+# for url in urls:
+#     content = get_data(url)
 
     # writing every note to a separate file with unique name, based on post url from tumblr
-    for entry in content:
-        note_file_name = url.split('/')[4] + '.md'
-        with open(saveto/note_file_name, 'w', encoding='utf-8') as f:
-            f.write(f"---\n"
-                    f"title: '{re.sub('[^0-9]', '', f.name)}'\n"
-                    f"---\n")
-            for key, value in content.items():
-                if type(value) is list:
-                    f.write(f"{key}: [[{']], [['.join(value)}]]")
-                else:
-                    f.write(f"\n{value}")
-                    f.close()
+    # for entry in content:
+    #     note_file_name = url.split('/')[4] + '.md'
+    #     with open(saveto/note_file_name, 'w', encoding='utf-8') as f:
+    #         f.write(f"---\n"
+    #                 f"title: '{re.sub('[^0-9]', '', f.name)}'\n"
+    #                 f"---\n")
+    #         for key, value in content.items():
+    #             if type(value) is list:
+    #                 f.write(f"{key}: [[{']], [['.join(value)}]]")
+    #             else:
+    #                 f.write(f"\n{value}")
+    #                 f.close()
 
 # grabbing evey tag from every note and writing it a separate .md file
 for url in urls:
@@ -63,6 +63,6 @@ for url in urls:
         with open(saveto/unidecode.unidecode(tag_file_name), 'w', encoding='utf-8') as f:
             f.write('---\n'
                     'layout: note\n'
-                    f'title: {tag}\n'
+                    f'title: "{tag}"\n'
                     '---')
             f.close()

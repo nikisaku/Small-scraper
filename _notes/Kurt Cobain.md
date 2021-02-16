@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Kurt Cobain
+title: "Kurt Cobain"
 ---

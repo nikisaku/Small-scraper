@@ -1,4 +1,4 @@
 ---
 layout: note
-title: machines
+title: "machines"
 ---

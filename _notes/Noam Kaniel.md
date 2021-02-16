@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Noam Kaniel
+title: "Noam Kaniel"
 ---

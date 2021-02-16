@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Valdi Moder
+title: "Valdi Moder"
 ---

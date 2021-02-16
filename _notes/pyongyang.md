@@ -1,4 +1,4 @@
 ---
 layout: note
-title: pyongyang
+title: "pyongyang"
 ---

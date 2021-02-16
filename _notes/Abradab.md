@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Abradab
+title: "Abradab"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: trip-hop
+title: "trip-hop"
 ---

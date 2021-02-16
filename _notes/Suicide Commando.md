@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Suicide Commando
+title: "Suicide Commando"
 ---

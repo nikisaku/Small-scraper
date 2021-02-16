@@ -1,4 +1,4 @@
 ---
 layout: note
-title: David J
+title: "David J"
 ---

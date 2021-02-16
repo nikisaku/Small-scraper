@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Ritchie Blackmore Orchestra
+title: "Ritchie Blackmore Orchestra"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Die Antwoord
+title: "Die Antwoord"
 ---

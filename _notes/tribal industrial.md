@@ -1,4 +1,4 @@
 ---
 layout: note
-title: tribal industrial
+title: "tribal industrial"
 ---

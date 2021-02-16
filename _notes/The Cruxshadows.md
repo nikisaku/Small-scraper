@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Crüxshadows
+title: "The Crüxshadows"
 ---

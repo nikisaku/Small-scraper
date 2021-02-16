@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Richard Wright
+title: "Richard Wright"
 ---

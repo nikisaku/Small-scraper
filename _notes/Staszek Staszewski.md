@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Staszek Staszewski
+title: "Staszek Staszewski"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Beastie Boys
+title: "Beastie Boys"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Aga Zaryan
+title: "Aga Zaryan"
 ---

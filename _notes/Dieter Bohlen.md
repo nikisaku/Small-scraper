@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Dieter Bohlen
+title: "Dieter Bohlen"
 ---

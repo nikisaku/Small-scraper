@@ -1,4 +1,4 @@
 ---
 layout: note
-title: misheard lyrics
+title: "misheard lyrics"
 ---

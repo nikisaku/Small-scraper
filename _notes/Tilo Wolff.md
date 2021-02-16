@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Tilo Wolff
+title: "Tilo Wolff"
 ---

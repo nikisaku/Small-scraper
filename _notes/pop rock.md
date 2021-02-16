@@ -1,4 +1,4 @@
 ---
 layout: note
-title: pop rock
+title: "pop rock"
 ---

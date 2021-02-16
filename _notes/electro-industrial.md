@@ -1,4 +1,4 @@
 ---
 layout: note
-title: electro-industrial
+title: "electro-industrial"
 ---

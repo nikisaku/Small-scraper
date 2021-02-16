@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Edge of Dawn
+title: "Edge of Dawn"
 ---

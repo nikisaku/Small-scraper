@@ -1,4 +1,4 @@
 ---
 layout: note
-title: kubuś puchatek
+title: "kubuś puchatek"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Accessory
+title: "Accessory"
 ---

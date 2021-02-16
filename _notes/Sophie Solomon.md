@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Sophie Solomon
+title: "Sophie Solomon"
 ---

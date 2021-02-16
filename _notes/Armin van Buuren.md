@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Armin van Buuren
+title: "Armin van Buuren"
 ---

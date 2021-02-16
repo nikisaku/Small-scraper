@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Kylie Minogue
+title: "Kylie Minogue"
 ---

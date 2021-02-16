@@ -1,4 +1,4 @@
 ---
 layout: note
-title: All Gone Dead
+title: "All Gone Dead"
 ---

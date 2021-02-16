@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Avalanches
+title: "The Avalanches"
 ---

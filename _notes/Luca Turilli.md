@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Luca Turilli
+title: "Luca Turilli"
 ---

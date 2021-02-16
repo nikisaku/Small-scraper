@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Tim Rice
+title: "Tim Rice"
 ---

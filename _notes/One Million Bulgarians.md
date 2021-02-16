@@ -1,4 +1,4 @@
 ---
 layout: note
-title: One Million Bulgarians
+title: "One Million Bulgarians"
 ---

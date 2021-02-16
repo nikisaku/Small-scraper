@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Queen
+title: "Queen"
 ---

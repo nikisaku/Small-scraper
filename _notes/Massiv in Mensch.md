@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Massiv in Mensch
+title: "Massiv in Mensch"
 ---

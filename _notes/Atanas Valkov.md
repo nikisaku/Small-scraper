@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Atanas Valkov
+title: "Atanas Valkov"
 ---

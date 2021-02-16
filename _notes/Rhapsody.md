@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Rhapsody
+title: "Rhapsody"
 ---

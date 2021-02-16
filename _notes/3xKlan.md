@@ -1,4 +1,4 @@
 ---
 layout: note
-title: 3xKlan
+title: "3xKlan"
 ---

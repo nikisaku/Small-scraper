@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Lacrimosa
+title: "Lacrimosa"
 ---

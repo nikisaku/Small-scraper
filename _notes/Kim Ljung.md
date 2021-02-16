@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Kim Ljung
+title: "Kim Ljung"
 ---

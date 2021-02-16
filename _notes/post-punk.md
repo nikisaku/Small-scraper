@@ -1,4 +1,4 @@
 ---
 layout: note
-title: post-punk
+title: "post-punk"
 ---

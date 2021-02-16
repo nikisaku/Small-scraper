@@ -1,4 +1,4 @@
 ---
 layout: note
-title: love
+title: "love"
 ---

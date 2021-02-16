@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Art of Illusion
+title: "Art of Illusion"
 ---

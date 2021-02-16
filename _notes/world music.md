@@ -1,4 +1,4 @@
 ---
 layout: note
-title: world music
+title: "world music"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Alexander Veljanov
+title: "Alexander Veljanov"
 ---

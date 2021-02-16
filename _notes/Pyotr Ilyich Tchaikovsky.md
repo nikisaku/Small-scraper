@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Pyotr Ilyich Tchaikovsky
+title: "Pyotr Ilyich Tchaikovsky"
 ---

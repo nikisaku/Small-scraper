@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Laura Branigan
+title: "Laura Branigan"
 ---

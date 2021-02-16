@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Justin Chancellor
+title: "Justin Chancellor"
 ---

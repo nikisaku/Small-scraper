@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Donald O'Connor
+title: "Donald O'Connor"
 ---

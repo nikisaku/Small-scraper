@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Neuroticfish
+title: "Neuroticfish"
 ---

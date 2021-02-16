@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Dirtbombs
+title: "The Dirtbombs"
 ---

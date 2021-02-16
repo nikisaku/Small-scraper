@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Rural Alberta Advantage
+title: "The Rural Alberta Advantage"
 ---

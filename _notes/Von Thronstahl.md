@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Von Thronstahl
+title: "Von Thronstahl"
 ---

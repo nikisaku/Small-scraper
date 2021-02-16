@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Alexander Olshanetsky
+title: "Alexander Olshanetsky"
 ---

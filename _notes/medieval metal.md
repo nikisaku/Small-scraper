@@ -1,4 +1,4 @@
 ---
 layout: note
-title: medieval metal
+title: "medieval metal"
 ---

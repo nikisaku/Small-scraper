@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Claudia Uhle
+title: "Claudia Uhle"
 ---

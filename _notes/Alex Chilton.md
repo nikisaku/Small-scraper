@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Alex Chilton
+title: "Alex Chilton"
 ---

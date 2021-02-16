@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Dreamside
+title: "The Dreamside"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Chris Schleyer
+title: "Chris Schleyer"
 ---

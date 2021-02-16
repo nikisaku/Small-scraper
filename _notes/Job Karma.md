@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Job Karma
+title: "Job Karma"
 ---

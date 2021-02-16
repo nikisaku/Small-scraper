@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Miguel and the Living Dead
+title: "Miguel and the Living Dead"
 ---

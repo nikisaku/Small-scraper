@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Rent
+title: "Rent"
 ---

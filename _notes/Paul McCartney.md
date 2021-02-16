@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Paul McCartney
+title: "Paul McCartney"
 ---

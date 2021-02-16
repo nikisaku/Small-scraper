@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Ireneusz Loth
+title: "Ireneusz Loth"
 ---

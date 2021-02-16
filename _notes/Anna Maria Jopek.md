@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Anna Maria Jopek
+title: "Anna Maria Jopek"
 ---

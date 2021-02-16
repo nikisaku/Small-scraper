@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Joanna Swan
+title: "Joanna Swan"
 ---

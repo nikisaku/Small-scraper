@@ -1,4 +1,4 @@
 ---
 layout: note
-title: drum'n'bass
+title: "drum'n'bass"
 ---

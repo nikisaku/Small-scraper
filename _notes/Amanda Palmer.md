@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Amanda Palmer
+title: "Amanda Palmer"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Eluveitie
+title: "Eluveitie"
 ---

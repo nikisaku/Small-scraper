@@ -1,4 +1,4 @@
 ---
 layout: note
-title: L'Ame Immortelle
+title: "L'Ame Immortelle"
 ---

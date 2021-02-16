@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Adrian Hates
+title: "Adrian Hates"
 ---

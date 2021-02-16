@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Tobias Sammet
+title: "Tobias Sammet"
 ---

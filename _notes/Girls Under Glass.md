@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Girls Under Glass
+title: "Girls Under Glass"
 ---

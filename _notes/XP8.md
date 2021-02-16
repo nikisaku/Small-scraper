@@ -1,4 +1,4 @@
 ---
 layout: note
-title: XP8
+title: "XP8"
 ---

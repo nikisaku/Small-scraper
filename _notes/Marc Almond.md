@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Marc Almond
+title: "Marc Almond"
 ---

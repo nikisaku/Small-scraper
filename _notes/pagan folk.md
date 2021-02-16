@@ -1,4 +1,4 @@
 ---
 layout: note
-title: pagan folk
+title: "pagan folk"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: State of the Union
+title: "State of the Union"
 ---

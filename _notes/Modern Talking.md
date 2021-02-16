@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Modern Talking
+title: "Modern Talking"
 ---

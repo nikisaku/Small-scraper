@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Ophelia
+title: "Ophelia"
 ---

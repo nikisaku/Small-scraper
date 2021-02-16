@@ -1,4 +1,4 @@
 ---
 layout: note
-title: H.P. Baxxter
+title: "H.P. Baxxter"
 ---

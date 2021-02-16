@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Bruce Reitherman
+title: "Bruce Reitherman"
 ---

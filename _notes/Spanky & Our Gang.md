@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Spanky & Our Gang
+title: "Spanky & Our Gang"
 ---

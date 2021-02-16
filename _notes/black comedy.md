@@ -1,4 +1,4 @@
 ---
 layout: note
-title: black comedy
+title: "black comedy"
 ---

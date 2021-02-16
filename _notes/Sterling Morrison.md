@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Sterling Morrison
+title: "Sterling Morrison"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Guilt Machine
+title: "Guilt Machine"
 ---

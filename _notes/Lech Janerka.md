@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Lech Janerka
+title: "Lech Janerka"
 ---

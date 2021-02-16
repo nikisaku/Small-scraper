@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Tiger Lillies
+title: "The Tiger Lillies"
 ---

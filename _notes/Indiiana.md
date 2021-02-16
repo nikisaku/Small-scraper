@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Indiiana
+title: "Indiiana"
 ---

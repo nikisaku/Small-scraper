@@ -1,4 +1,4 @@
 ---
 layout: note
-title: This Mortal Coil
+title: "This Mortal Coil"
 ---

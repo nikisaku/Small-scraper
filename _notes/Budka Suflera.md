@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Budka Suflera
+title: "Budka Suflera"
 ---

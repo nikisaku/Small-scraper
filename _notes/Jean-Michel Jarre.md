@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Jean-Michel Jarre
+title: "Jean-Michel Jarre"
 ---

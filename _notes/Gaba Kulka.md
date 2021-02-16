@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Gaba Kulka
+title: "Gaba Kulka"
 ---

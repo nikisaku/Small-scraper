@@ -1,4 +1,4 @@
 ---
 layout: note
-title: birthday
+title: "birthday"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Bing Crosby
+title: "Bing Crosby"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Brian Viglione
+title: "Brian Viglione"
 ---

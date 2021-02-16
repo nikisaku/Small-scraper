@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Cyndi Lauper
+title: "Cyndi Lauper"
 ---

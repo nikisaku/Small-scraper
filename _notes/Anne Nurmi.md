@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Anne Nurmi
+title: "Anne Nurmi"
 ---

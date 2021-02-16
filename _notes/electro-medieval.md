@@ -1,4 +1,4 @@
 ---
 layout: note
-title: electro-medieval
+title: "electro-medieval"
 ---

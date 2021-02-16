@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Creature Feature
+title: "Creature Feature"
 ---

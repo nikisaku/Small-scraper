@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Candy Dulfer
+title: "Candy Dulfer"
 ---

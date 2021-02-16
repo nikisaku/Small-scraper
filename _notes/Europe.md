@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Europe
+title: "Europe"
 ---

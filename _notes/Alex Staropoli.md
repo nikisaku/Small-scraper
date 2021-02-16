@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Alex Staropoli
+title: "Alex Staropoli"
 ---

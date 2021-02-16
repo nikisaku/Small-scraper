@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Jim Morrison
+title: "Jim Morrison"
 ---

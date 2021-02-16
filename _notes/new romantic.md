@@ -1,4 +1,4 @@
 ---
 layout: note
-title: new romantic
+title: "new romantic"
 ---

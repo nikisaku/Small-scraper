@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Marek Grechuta
+title: "Marek Grechuta"
 ---

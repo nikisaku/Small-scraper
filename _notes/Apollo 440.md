@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Apollo 440
+title: "Apollo 440"
 ---

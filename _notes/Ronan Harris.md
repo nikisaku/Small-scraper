@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Ronan Harris
+title: "Ronan Harris"
 ---

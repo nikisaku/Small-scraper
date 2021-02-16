@@ -1,4 +1,4 @@
 ---
 layout: note
-title: elections
+title: "elections"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Goethes Erben
+title: "Goethes Erben"
 ---

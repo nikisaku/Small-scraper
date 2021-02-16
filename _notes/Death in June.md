@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Death in June
+title: "Death in June"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Led Zeppelin
+title: "Led Zeppelin"
 ---

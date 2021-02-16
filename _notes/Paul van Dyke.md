@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Paul van Dyke
+title: "Paul van Dyke"
 ---

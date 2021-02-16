@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Chaps
+title: "The Chaps"
 ---

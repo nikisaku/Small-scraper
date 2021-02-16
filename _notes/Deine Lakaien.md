@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Deine Lakaien
+title: "Deine Lakaien"
 ---

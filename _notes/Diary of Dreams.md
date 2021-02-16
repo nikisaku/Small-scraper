@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Diary of Dreams
+title: "Diary of Dreams"
 ---

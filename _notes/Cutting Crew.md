@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Cutting Crew
+title: "Cutting Crew"
 ---

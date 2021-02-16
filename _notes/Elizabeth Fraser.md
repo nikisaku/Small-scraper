@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Elizabeth Fraser
+title: "Elizabeth Fraser"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Men At Work
+title: "Men At Work"
 ---

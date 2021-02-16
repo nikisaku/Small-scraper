@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Nigel Stanford
+title: "Nigel Stanford"
 ---

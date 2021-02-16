@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Little Sis Nora
+title: "Little Sis Nora"
 ---

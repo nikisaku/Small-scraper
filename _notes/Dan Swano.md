@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Dan Swanö
+title: "Dan Swanö"
 ---

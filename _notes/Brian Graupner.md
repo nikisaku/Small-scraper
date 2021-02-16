@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Brian Graupner
+title: "Brian Graupner"
 ---

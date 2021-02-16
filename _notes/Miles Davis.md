@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Miles Davis
+title: "Miles Davis"
 ---

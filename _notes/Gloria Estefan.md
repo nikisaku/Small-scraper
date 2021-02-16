@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Gloria Estefan
+title: "Gloria Estefan"
 ---

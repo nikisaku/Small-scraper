@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Break da Funk
+title: "Break da Funk"
 ---

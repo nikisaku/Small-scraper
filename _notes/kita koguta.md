@@ -1,4 +1,4 @@
 ---
 layout: note
-title: kita koguta
+title: "kita koguta"
 ---

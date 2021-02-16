@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Julia Fischer
+title: "Julia Fischer"
 ---

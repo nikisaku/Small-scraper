@@ -1,4 +1,4 @@
 ---
 layout: note
-title: more cowbell
+title: "more cowbell"
 ---

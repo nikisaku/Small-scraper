@@ -1,4 +1,4 @@
 ---
 layout: note
-title: X-Ray Spex
+title: "X-Ray Spex"
 ---

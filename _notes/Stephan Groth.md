@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Stephan Groth
+title: "Stephan Groth"
 ---

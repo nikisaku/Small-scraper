@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Neil Christian & The Crusaders
+title: "Neil Christian & The Crusaders"
 ---

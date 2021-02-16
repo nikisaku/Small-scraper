@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Editors
+title: "Editors"
 ---

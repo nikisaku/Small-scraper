@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Mick Jagger
+title: "Mick Jagger"
 ---

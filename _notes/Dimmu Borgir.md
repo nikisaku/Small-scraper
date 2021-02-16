@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Dimmu Borgir
+title: "Dimmu Borgir"
 ---

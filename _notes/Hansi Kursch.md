@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Hansi Kürsch
+title: "Hansi Kürsch"
 ---

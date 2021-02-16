@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Front Line Assembly
+title: "Front Line Assembly"
 ---

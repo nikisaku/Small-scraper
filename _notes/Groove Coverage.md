@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Groove Coverage
+title: "Groove Coverage"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Lord of the Rings
+title: "Lord of the Rings"
 ---

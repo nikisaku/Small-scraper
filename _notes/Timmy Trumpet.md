@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Timmy Trumpet
+title: "Timmy Trumpet"
 ---

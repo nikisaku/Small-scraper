@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Axel Rudi Pell
+title: "Axel Rudi Pell"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Siouxsie and the Banshees
+title: "Siouxsie and the Banshees"
 ---

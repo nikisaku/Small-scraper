@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Eiffel 65
+title: "Eiffel 65"
 ---

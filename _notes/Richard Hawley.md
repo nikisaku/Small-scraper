@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Richard Hawley
+title: "Richard Hawley"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: sunday
+title: "sunday"
 ---

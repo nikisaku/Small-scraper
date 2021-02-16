@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Ringo Starr
+title: "Ringo Starr"
 ---

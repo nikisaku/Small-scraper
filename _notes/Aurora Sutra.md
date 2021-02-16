@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Aurora Sutra
+title: "Aurora Sutra"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Astrid van der Veen
+title: "Astrid van der Veen"
 ---

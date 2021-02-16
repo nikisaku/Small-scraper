@@ -1,4 +1,4 @@
 ---
 layout: note
-title: 7JK
+title: "7JK"
 ---

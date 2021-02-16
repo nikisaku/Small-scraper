@@ -1,4 +1,4 @@
 ---
 layout: note
-title: divine inspiration
+title: "divine inspiration"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Reverend Horton Heat
+title: "Reverend Horton Heat"
 ---

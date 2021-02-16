@@ -1,4 +1,4 @@
 ---
 layout: note
-title: ethereal wave
+title: "ethereal wave"
 ---

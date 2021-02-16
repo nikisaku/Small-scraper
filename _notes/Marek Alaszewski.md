@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Marek Ałaszewski
+title: "Marek Ałaszewski"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Simon Raymonde
+title: "Simon Raymonde"
 ---

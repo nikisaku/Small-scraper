@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Jungle Book
+title: "The Jungle Book"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Floor Jansen
+title: "Floor Jansen"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: K.I.Z.
+title: "K.I.Z."
 ---

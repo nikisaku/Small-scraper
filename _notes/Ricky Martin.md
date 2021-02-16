@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Ricky Martin
+title: "Ricky Martin"
 ---

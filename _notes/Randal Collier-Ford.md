@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Randal Collier-Ford
+title: "Randal Collier-Ford"
 ---

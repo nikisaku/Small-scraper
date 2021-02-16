@@ -1,4 +1,4 @@
 ---
 layout: note
-title: the sound of music
+title: "the sound of music"
 ---

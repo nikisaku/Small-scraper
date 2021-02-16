@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Made in Poland
+title: "Made in Poland"
 ---

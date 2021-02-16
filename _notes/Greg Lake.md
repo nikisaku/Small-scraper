@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Greg Lake
+title: "Greg Lake"
 ---

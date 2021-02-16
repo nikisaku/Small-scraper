@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Krzysztof Banasik
+title: "Krzysztof Banasik"
 ---

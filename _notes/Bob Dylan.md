@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Bob Dylan
+title: "Bob Dylan"
 ---

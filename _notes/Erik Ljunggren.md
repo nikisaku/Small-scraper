@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Erik Ljunggren
+title: "Erik Ljunggren"
 ---

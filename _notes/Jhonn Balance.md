@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Jhonn Balance
+title: "Jhonn Balance"
 ---

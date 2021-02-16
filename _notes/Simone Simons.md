@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Simone Simons
+title: "Simone Simons"
 ---

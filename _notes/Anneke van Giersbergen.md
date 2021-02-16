@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Anneke van Giersbergen
+title: "Anneke van Giersbergen"
 ---

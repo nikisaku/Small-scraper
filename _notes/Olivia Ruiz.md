@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Olivia Ruiz
+title: "Olivia Ruiz"
 ---

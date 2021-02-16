@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Alexander Krull
+title: "Alexander Krull"
 ---

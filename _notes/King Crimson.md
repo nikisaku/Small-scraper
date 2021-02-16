@@ -1,4 +1,4 @@
 ---
 layout: note
-title: King Crimson
+title: "King Crimson"
 ---

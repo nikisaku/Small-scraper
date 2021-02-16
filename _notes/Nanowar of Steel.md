@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Nanowar of Steel
+title: "Nanowar of Steel"
 ---

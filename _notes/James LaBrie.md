@@ -1,4 +1,4 @@
 ---
 layout: note
-title: James LaBrie
+title: "James LaBrie"
 ---

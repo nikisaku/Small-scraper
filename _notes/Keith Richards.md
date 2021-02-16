@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Keith Richards
+title: "Keith Richards"
 ---

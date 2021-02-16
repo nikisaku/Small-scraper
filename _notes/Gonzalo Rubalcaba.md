@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Gonzalo Rubalcaba
+title: "Gonzalo Rubalcaba"
 ---

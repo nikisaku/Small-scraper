@@ -1,4 +1,4 @@
 ---
 layout: note
-title: pink panther
+title: "pink panther"
 ---

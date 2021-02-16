@@ -1,4 +1,4 @@
 ---
 layout: note
-title: martial industrial
+title: "martial industrial"
 ---

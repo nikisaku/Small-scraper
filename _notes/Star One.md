@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Star One
+title: "Star One"
 ---

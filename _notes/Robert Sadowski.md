@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Robert Sadowski
+title: "Robert Sadowski"
 ---

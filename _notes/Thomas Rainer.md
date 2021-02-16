@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Thomas Rainer
+title: "Thomas Rainer"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Blind Guardian
+title: "Blind Guardian"
 ---

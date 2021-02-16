@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Kevin Haskins
+title: "Kevin Haskins"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Robin Guthrie
+title: "Robin Guthrie"
 ---

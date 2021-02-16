@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Jan D'Hooghe
+title: "Jan D'Hooghe"
 ---

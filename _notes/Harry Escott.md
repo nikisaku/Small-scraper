@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Harry Escott
+title: "Harry Escott"
 ---

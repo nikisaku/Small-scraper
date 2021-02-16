@@ -1,4 +1,4 @@
 ---
 layout: note
-title: industrial rock
+title: "industrial rock"
 ---

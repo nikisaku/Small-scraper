@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Grzegorz Turnau
+title: "Grzegorz Turnau"
 ---

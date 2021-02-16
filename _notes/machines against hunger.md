@@ -1,4 +1,4 @@
 ---
 layout: note
-title: machines against hunger
+title: "machines against hunger"
 ---

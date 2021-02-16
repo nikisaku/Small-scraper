@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Alan Parsons Project
+title: "The Alan Parsons Project"
 ---

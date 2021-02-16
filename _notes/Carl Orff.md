@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Carl Orff
+title: "Carl Orff"
 ---

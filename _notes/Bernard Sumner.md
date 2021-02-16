@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Bernard Sumner
+title: "Bernard Sumner"
 ---

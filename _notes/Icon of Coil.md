@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Icon of Coil
+title: "Icon of Coil"
 ---

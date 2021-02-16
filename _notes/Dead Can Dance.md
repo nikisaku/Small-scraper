@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Dead Can Dance
+title: "Dead Can Dance"
 ---

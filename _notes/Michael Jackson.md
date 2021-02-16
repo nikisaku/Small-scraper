@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Michael Jackson
+title: "Michael Jackson"
 ---

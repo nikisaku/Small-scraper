@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Siouxsie Sioux
+title: "Siouxsie Sioux"
 ---

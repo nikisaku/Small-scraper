@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Antonio Vivaldi
+title: "Antonio Vivaldi"
 ---

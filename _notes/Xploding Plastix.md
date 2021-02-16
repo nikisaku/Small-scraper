@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Xploding Plastix
+title: "Xploding Plastix"
 ---

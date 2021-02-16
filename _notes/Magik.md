@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Magik
+title: "Magik"
 ---

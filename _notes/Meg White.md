@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Meg White
+title: "Meg White"
 ---

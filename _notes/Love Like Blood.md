@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Love Like Blood
+title: "Love Like Blood"
 ---

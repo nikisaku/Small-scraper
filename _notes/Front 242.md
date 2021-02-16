@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Front 242
+title: "Front 242"
 ---

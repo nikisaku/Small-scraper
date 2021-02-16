@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Carpenter Brut
+title: "Carpenter Brut"
 ---

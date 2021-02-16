@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Hans Zimmer
+title: "Hans Zimmer"
 ---

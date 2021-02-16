@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Agent Fresco
+title: "Agent Fresco"
 ---

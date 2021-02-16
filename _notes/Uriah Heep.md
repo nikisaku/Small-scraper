@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Uriah Heep
+title: "Uriah Heep"
 ---

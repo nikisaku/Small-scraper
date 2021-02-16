@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Śliwka Tuitam
+title: "Śliwka Tuitam"
 ---

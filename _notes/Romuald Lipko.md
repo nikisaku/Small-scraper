@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Romuald Lipko
+title: "Romuald Lipko"
 ---

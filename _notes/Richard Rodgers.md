@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Richard Rodgers
+title: "Richard Rodgers"
 ---

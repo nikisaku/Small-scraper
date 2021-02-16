@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Wally Kissel
+title: "Wally Kissel"
 ---

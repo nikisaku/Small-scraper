@@ -1,4 +1,4 @@
 ---
 layout: note
-title: A Perfect Circle
+title: "A Perfect Circle"
 ---

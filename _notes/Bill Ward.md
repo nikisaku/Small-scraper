@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Bill Ward
+title: "Bill Ward"
 ---

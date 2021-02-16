@@ -1,4 +1,4 @@
 ---
 layout: note
-title: 2 Unlimited
+title: "2 Unlimited"
 ---

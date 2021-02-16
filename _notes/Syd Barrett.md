@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Syd Barrett
+title: "Syd Barrett"
 ---

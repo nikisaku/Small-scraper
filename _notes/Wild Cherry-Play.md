@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Wild Cherry-Play
+title: "Wild Cherry-Play"
 ---

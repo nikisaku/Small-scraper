@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The White Stripes
+title: "The White Stripes"
 ---

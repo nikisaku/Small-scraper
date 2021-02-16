@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Deep Purple
+title: "Deep Purple"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Das Ich
+title: "Das Ich"
 ---

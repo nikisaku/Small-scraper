@@ -1,4 +1,4 @@
 ---
 layout: note
-title: let the world burn
+title: "let the world burn"
 ---

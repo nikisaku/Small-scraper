@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Keith Emerson
+title: "Keith Emerson"
 ---

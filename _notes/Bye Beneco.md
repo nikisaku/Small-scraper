@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Bye Beneco
+title: "Bye Beneco"
 ---

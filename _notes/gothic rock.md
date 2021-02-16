@@ -1,4 +1,4 @@
 ---
 layout: note
-title: gothic rock
+title: "gothic rock"
 ---

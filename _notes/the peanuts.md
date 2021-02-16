@@ -1,4 +1,4 @@
 ---
 layout: note
-title: the peanuts
+title: "the peanuts"
 ---

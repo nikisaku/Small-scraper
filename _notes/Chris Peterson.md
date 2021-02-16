@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Chris Peterson
+title: "Chris Peterson"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Bill Leeb
+title: "Bill Leeb"
 ---

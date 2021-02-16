@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Captain Dan & the Scurvy Crew
+title: "Captain Dan & the Scurvy Crew"
 ---

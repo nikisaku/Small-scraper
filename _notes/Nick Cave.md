@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Nick Cave
+title: "Nick Cave"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Dave Stewart
+title: "Dave Stewart"
 ---

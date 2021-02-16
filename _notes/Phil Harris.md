@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Phil Harris
+title: "Phil Harris"
 ---

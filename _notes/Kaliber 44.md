@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Kaliber 44
+title: "Kaliber 44"
 ---

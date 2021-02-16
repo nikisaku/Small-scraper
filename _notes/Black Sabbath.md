@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Black Sabbath
+title: "Black Sabbath"
 ---

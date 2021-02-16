@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Jeff Stoddard
+title: "Jeff Stoddard"
 ---

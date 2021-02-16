@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Die Krupps
+title: "Die Krupps"
 ---

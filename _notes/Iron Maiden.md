@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Iron Maiden
+title: "Iron Maiden"
 ---

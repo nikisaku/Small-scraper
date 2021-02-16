@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Annie Lennox
+title: "Annie Lennox"
 ---

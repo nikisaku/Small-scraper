@@ -1,4 +1,4 @@
 ---
 layout: note
-title: John Lennon
+title: "John Lennon"
 ---

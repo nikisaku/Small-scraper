@@ -1,4 +1,4 @@
 ---
 layout: note
-title: black metal
+title: "black metal"
 ---

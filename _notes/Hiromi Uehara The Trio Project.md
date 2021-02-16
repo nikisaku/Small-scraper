@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Hiromi Uehara The Trio Project
+title: "Hiromi Uehara The Trio Project"
 ---

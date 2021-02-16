@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Michael Cretu
+title: "Michael Cretu"
 ---

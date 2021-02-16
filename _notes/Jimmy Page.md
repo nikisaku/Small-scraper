@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Jimmy Page
+title: "Jimmy Page"
 ---

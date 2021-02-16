@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Shane MacGowan
+title: "Shane MacGowan"
 ---

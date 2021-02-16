@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Summoning
+title: "Summoning"
 ---

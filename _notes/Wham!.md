@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Wham!
+title: "Wham!"
 ---

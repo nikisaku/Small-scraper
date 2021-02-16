@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Józef Skrzek
+title: "Józef Skrzek"
 ---

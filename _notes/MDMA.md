@@ -1,4 +1,4 @@
 ---
 layout: note
-title: MDMA
+title: "MDMA"
 ---

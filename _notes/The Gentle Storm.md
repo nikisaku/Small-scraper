@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Gentle Storm
+title: "The Gentle Storm"
 ---

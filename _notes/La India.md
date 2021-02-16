@@ -1,4 +1,4 @@
 ---
 layout: note
-title: La India
+title: "La India"
 ---

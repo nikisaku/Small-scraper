@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Jon Lord
+title: "Jon Lord"
 ---

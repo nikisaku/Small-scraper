@@ -1,4 +1,4 @@
 ---
 layout: note
-title: In Extremo
+title: "In Extremo"
 ---

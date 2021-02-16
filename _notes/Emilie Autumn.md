@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Emilie Autumn
+title: "Emilie Autumn"
 ---

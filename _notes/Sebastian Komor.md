@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Sebastian Komor
+title: "Sebastian Komor"
 ---

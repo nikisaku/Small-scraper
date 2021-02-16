@@ -1,4 +1,4 @@
 ---
 layout: note
-title: alpha & omega
+title: "alpha & omega"
 ---

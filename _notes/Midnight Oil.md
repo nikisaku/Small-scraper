@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Midnight Oil
+title: "Midnight Oil"
 ---

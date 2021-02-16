@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Gathering
+title: "The Gathering"
 ---

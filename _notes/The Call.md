@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Call
+title: "The Call"
 ---

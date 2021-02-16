@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Edith Piaf
+title: "Edith Piaf"
 ---

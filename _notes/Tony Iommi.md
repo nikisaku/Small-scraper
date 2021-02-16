@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Tony Iommi
+title: "Tony Iommi"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Carl Palmer
+title: "Carl Palmer"
 ---

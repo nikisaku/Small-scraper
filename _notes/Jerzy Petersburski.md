@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Jerzy Petersburski
+title: "Jerzy Petersburski"
 ---

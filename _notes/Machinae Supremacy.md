@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Machinae Supremacy
+title: "Machinae Supremacy"
 ---

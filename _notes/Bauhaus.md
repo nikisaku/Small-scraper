@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Bauhaus
+title: "Bauhaus"
 ---

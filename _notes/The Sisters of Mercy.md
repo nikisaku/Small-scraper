@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Sisters of Mercy
+title: "The Sisters of Mercy"
 ---

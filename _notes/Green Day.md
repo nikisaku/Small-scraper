@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Green Day
+title: "Green Day"
 ---

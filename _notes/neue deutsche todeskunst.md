@@ -1,4 +1,4 @@
 ---
 layout: note
-title: neue deutsche todeskunst
+title: "neue deutsche todeskunst"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Daniel Ash
+title: "Daniel Ash"
 ---

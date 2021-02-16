@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Andrzej Zaucha
+title: "Andrzej Zaucha"
 ---

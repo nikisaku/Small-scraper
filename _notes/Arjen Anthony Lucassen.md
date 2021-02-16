@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Arjen Anthony Lucassen
+title: "Arjen Anthony Lucassen"
 ---

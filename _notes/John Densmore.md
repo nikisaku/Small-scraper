@@ -1,4 +1,4 @@
 ---
 layout: note
-title: John Densmore
+title: "John Densmore"
 ---

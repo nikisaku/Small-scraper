@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Prodigy
+title: "The Prodigy"
 ---

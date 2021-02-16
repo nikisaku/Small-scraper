@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Dirk Scheuber
+title: "Dirk Scheuber"
 ---

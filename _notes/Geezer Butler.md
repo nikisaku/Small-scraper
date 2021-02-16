@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Geezer Butler
+title: "Geezer Butler"
 ---

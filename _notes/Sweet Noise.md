@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Sweet Noise
+title: "Sweet Noise"
 ---

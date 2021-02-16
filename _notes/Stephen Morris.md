@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Stephen Morris
+title: "Stephen Morris"
 ---

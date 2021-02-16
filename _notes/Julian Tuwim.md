@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Julian Tuwim
+title: "Julian Tuwim"
 ---

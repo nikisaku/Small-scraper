@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Alice Cooper
+title: "Alice Cooper"
 ---

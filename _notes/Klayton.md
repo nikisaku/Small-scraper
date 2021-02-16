@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Klayton
+title: "Klayton"
 ---

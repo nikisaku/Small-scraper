@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Napoleon XIV
+title: "Napoleon XIV"
 ---

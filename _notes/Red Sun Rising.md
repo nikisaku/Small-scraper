@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Red Sun Rising
+title: "Red Sun Rising"
 ---

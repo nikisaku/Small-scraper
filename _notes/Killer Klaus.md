@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Killer Klaus
+title: "Killer Klaus"
 ---

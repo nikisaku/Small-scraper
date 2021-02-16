@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Velvet Underground
+title: "The Velvet Underground"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Cocteau Twins
+title: "Cocteau Twins"
 ---

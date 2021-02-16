@@ -1,4 +1,4 @@
 ---
 layout: note
-title: John Cale
+title: "John Cale"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Project Pitchfork
+title: "Project Pitchfork"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Xmal Deutschland
+title: "Xmal Deutschland"
 ---

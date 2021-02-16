@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Cure
+title: "The Cure"
 ---

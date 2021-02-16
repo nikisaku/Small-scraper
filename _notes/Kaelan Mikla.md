@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Kaelan Mikla
+title: "Kaelan Mikla"
 ---

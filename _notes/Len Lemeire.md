@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Len Lemeire
+title: "Len Lemeire"
 ---

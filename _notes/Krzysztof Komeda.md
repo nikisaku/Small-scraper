@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Krzysztof Komeda
+title: "Krzysztof Komeda"
 ---

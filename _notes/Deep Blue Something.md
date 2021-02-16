@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Deep Blue Something
+title: "Deep Blue Something"
 ---

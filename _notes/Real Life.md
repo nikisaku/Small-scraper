@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Real Life
+title: "Real Life"
 ---

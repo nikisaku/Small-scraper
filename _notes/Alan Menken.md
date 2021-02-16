@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Alan Menken
+title: "Alan Menken"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Maureen Tucker
+title: "Maureen Tucker"
 ---

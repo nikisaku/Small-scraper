@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Johan Edlund
+title: "Johan Edlund"
 ---

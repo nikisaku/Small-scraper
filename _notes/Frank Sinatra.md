@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Frank Sinatra
+title: "Frank Sinatra"
 ---

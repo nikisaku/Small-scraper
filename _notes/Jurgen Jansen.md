@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Jurgen Jansen
+title: "Jurgen Jansen"
 ---

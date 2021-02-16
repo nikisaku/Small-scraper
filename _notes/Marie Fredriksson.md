@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Marie Fredriksson
+title: "Marie Fredriksson"
 ---

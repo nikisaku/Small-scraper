@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Rainbow
+title: "Rainbow"
 ---

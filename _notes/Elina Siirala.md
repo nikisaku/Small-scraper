@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Elina Siirala
+title: "Elina Siirala"
 ---

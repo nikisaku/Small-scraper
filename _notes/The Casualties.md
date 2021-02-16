@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Casualties
+title: "The Casualties"
 ---

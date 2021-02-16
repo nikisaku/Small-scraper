@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Tori Amos
+title: "Tori Amos"
 ---

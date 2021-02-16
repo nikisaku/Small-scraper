@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Strange Hobby
+title: "Strange Hobby"
 ---

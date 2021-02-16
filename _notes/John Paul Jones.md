@@ -1,4 +1,4 @@
 ---
 layout: note
-title: John Paul Jones
+title: "John Paul Jones"
 ---

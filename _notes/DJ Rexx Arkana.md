@@ -1,4 +1,4 @@
 ---
 layout: note
-title: DJ Rexx Arkana
+title: "DJ Rexx Arkana"
 ---

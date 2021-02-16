@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Grzegorz Skawiński
+title: "Grzegorz Skawiński"
 ---

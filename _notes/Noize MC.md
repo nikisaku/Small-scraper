@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Noize MC
+title: "Noize MC"
 ---

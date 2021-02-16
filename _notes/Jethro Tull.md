@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Jethro Tull
+title: "Jethro Tull"
 ---

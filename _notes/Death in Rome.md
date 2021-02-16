@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Death in Rome
+title: "Death in Rome"
 ---

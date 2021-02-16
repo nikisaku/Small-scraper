@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Noise Unit
+title: "Noise Unit"
 ---

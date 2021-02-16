@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Aesthetic Perfection
+title: "Aesthetic Perfection"
 ---

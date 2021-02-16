@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Homo Twist
+title: "Homo Twist"
 ---

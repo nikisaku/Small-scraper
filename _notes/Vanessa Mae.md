@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Vanessa Mae
+title: "Vanessa Mae"
 ---

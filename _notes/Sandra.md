@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Sandra
+title: "Sandra"
 ---

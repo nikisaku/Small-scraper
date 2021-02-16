@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Linkin Park
+title: "Linkin Park"
 ---

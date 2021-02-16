@@ -1,4 +1,4 @@
 ---
 layout: note
-title: John Bonham
+title: "John Bonham"
 ---

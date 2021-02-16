@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Russell Allen
+title: "Russell Allen"
 ---

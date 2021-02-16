@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Gloria Jones
+title: "Gloria Jones"
 ---

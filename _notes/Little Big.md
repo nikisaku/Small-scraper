@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Little Big
+title: "Little Big"
 ---

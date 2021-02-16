@@ -1,4 +1,4 @@
 ---
 layout: note
-title: dark cabaret
+title: "dark cabaret"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Blackmore's Night
+title: "Blackmore's Night"
 ---

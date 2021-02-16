@@ -1,4 +1,4 @@
 ---
 layout: note
-title: hollywood metal
+title: "hollywood metal"
 ---

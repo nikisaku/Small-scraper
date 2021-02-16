@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Grzegorz Ciechowski
+title: "Grzegorz Ciechowski"
 ---

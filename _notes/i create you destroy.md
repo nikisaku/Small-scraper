@@ -1,4 +1,4 @@
 ---
 layout: note
-title: i create you destroy
+title: "i create you destroy"
 ---

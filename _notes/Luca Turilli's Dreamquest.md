@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Luca Turilli's Dreamquest
+title: "Luca Turilli's Dreamquest"
 ---

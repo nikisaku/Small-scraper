@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Celebrate the Nun
+title: "Celebrate the Nun"
 ---

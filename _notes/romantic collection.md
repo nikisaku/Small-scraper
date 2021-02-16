@@ -1,4 +1,4 @@
 ---
 layout: note
-title: romantic collection
+title: "romantic collection"
 ---

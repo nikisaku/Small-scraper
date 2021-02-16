@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Oscar Hammerstein II
+title: "Oscar Hammerstein II"
 ---

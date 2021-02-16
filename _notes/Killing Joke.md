@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Killing Joke
+title: "Killing Joke"
 ---

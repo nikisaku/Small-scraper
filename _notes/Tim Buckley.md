@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Tim Buckley
+title: "Tim Buckley"
 ---

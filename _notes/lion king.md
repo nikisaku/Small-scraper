@@ -1,4 +1,4 @@
 ---
 layout: note
-title: lion king
+title: "lion king"
 ---

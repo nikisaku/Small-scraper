@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Who
+title: "The Who"
 ---

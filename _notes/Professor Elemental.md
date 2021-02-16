@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Professor Elemental
+title: "Professor Elemental"
 ---

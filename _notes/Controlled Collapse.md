@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Controlled Collapse
+title: "Controlled Collapse"
 ---

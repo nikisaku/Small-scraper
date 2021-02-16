@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Ernst Horn
+title: "Ernst Horn"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Henry Mancini
+title: "Henry Mancini"
 ---

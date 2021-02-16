@@ -1,4 +1,4 @@
 ---
 layout: note
-title: PJ Harvey
+title: "PJ Harvey"
 ---

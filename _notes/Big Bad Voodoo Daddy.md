@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Big Bad Voodoo Daddy
+title: "Big Bad Voodoo Daddy"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Brian May
+title: "Brian May"
 ---

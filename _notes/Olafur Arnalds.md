@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Ólafur Arnalds
+title: "Ólafur Arnalds"
 ---

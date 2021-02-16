@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Dresden Dolls
+title: "Dresden Dolls"
 ---

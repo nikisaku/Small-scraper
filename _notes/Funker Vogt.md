@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Funker Vogt
+title: "Funker Vogt"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Zdzisława Sośnicka
+title: "Zdzisława Sośnicka"
 ---

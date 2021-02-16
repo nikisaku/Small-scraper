@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Keith Flint
+title: "Keith Flint"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Sebastian Madejski
+title: "Sebastian Madejski"
 ---

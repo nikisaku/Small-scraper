@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Rabia Sorda
+title: "Rabia Sorda"
 ---

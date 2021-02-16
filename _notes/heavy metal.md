@@ -1,4 +1,4 @@
 ---
 layout: note
-title: heavy metal
+title: "heavy metal"
 ---

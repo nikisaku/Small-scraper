@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Charlie Watts
+title: "Charlie Watts"
 ---

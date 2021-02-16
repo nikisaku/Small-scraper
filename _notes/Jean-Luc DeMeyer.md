@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Jean-Luc DeMeyer
+title: "Jean-Luc DeMeyer"
 ---

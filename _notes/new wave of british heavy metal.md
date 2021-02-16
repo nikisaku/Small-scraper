@@ -1,4 +1,4 @@
 ---
 layout: note
-title: new wave of british heavy metal
+title: "new wave of british heavy metal"
 ---

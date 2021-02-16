@@ -1,4 +1,4 @@
 ---
 layout: note
-title: acid jazz
+title: "acid jazz"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: This Morn Omina
+title: "This Morn Omina"
 ---

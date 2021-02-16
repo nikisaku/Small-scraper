@@ -1,4 +1,4 @@
 ---
 layout: note
-title: post-goth
+title: "post-goth"
 ---

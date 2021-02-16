@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Rhys Fulber
+title: "Rhys Fulber"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Basement Jaxx
+title: "Basement Jaxx"
 ---

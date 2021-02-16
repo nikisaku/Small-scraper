@@ -1,4 +1,4 @@
 ---
 layout: note
-title: The Flower Kings
+title: "The Flower Kings"
 ---

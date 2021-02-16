@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Silesia
+title: "Silesia"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: B.U.C.
+title: "B.U.C."
 ---

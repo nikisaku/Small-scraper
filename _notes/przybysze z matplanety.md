@@ -1,4 +1,4 @@
 ---
 layout: note
-title: przybysze z matplanety
+title: "przybysze z matplanety"
 ---

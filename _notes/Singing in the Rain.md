@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Singing in the Rain
+title: "Singing in the Rain"
 ---

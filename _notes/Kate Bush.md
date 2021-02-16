@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Kate Bush
+title: "Kate Bush"
 ---

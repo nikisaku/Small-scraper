@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Anna Jantar
+title: "Anna Jantar"
 ---

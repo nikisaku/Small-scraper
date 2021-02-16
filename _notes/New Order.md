@@ -1,4 +1,4 @@
 ---
 layout: note
-title: New Order
+title: "New Order"
 ---

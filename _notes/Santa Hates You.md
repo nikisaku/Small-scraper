@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Santa Hates You
+title: "Santa Hates You"
 ---

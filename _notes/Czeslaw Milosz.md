@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Czesław Miłosz
+title: "Czesław Miłosz"
 ---

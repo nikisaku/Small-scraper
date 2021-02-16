@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Klaus Mittfoch
+title: "Klaus Mittfoch"
 ---

@@ -1,4 +1,4 @@
 ---
 layout: note
-title: melodic death metal
+title: "melodic death metal"
 ---

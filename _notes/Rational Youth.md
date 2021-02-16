@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Rational Youth
+title: "Rational Youth"
 ---

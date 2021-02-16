@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Daniel Graves
+title: "Daniel Graves"
 ---

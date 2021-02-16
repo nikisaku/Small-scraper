@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Piotr  Gutowski
+title: "Piotr  Gutowski"
 ---

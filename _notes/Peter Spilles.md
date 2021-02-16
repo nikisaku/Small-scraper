@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Peter Spilles
+title: "Peter Spilles"
 ---

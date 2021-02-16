@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Ozzy Osbourne
+title: "Ozzy Osbourne"
 ---

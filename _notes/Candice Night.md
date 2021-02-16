@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Candice Night
+title: "Candice Night"
 ---

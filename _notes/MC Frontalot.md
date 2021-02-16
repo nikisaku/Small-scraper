@@ -1,4 +1,4 @@
 ---
 layout: note
-title: MC Frontalot
+title: "MC Frontalot"
 ---

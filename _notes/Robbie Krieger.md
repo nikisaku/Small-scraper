@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Robbie Krieger
+title: "Robbie Krieger"
 ---

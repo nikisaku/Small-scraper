@@ -1,4 +1,4 @@
 ---
 layout: note
-title: Barbara Karlik
+title: "Barbara Karlik"
 ---
