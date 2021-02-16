@@ -18,7 +18,7 @@ else:
     saveto.mkdir()
 
 # range for subpages
-pages = range(1, 2)
+pages = range(1, 56)
 
 # list for post urls
 urls = []
