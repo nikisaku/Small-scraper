@@ -5,6 +5,7 @@ import os
 from pathlib import Path
 from get_data import get_data
 from get_tags import get_tags
+import unidecode
 
 # setting up saving path for future files
 workspace = Path(os.getcwd())
@@ -40,17 +41,18 @@ for page in pages:
 for url in urls:
     content = get_data(url)
 
-# writing every note to a separate file with unique name, based on post url from tumblr
+    # writing every note to a separate file with unique name, based on post url from tumblr
     for entry in content:
         note_file_name = url.split('/')[4] + '.md'
         with open(saveto/note_file_name, 'w', encoding='utf-8') as f:
+            f.write(f"---\n"
+                    f"title: '{re.sub('[^0-9]', '', f.name)}'\n"
+                    f"---\n")
             for key, value in content.items():
                 if type(value) is list:
-                    f.write(f"---\n"
-                            f"title: {re.sub('[^0-9]', '', f.name)}\n"
-                            f"{key}: [[{']], [['.join(value)}]]")
+                    f.write(f"{key}: [[{']], [['.join(value)}]]")
                 else:
-                    f.write(f"\n---\n{value}")
+                    f.write(f"\n{value}")
                     f.close()
 
 # grabbing evey tag from every note and writing it a separate .md file
@@ -58,8 +60,9 @@ for url in urls:
     all_tags = get_tags(url)
     for tag in all_tags:
         tag_file_name = tag + '.md'
-        with open(saveto/tag_file_name, 'w', encoding='utf-8') as f:
+        with open(saveto/unidecode.unidecode(tag_file_name), 'w', encoding='utf-8') as f:
             f.write('---\n'
                     'layout: note\n'
+                    f'title: {tag}\n'
                     '---')
             f.close()

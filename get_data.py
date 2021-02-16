@@ -8,10 +8,9 @@ def get_data(url):
 
     # lists for iframe HTML and tags
     iframe = []
-    tags = []
 
     # scraping for tagged without hashtags, pure text
-    div = soup.find_all('div', attrs={'class': 'tagged'})
+    div = soup.find_all('div', attrs={'class': 'tags'})
     for entry in div:
         tags = entry.text.strip().replace('#', '').split('\n')
 
