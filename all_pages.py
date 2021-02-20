@@ -19,8 +19,8 @@ def all_pages(pages):
             url = link.get('href')
 
             urls.append(url)
-        return urls
+    return urls
 
 
 if __name__ == '__main__':
-    print(all_pages(range(1, 2)))
+    print(all_pages(range(1, 3)))
