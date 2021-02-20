@@ -11,7 +11,7 @@ SUBPAGE_END = 56
 notes_dir = '_notes'
 check_dir = check_dir(notes_dir)
 save_path = save_to(notes_dir)
-pages = range(1, 3)
+pages = range(SUBPAGE_START, SUBPAGE_END)
 
 for url in all_pages(pages):
     content = get_data(url)
