@@ -1,69 +1,23 @@
-import requests
-from bs4 import BeautifulSoup
-import re
-import os
-from pathlib import Path
 from get_data import get_data
 from get_tags import get_tags
-import unidecode
+from all_pages import all_pages
+from check_dir import check_dir
+from save_to import save_to
+from write_posts import write_posts
+from write_tags import write_tags
 
-# setting up saving path for future files
-workspace = Path(os.getcwd())
-saveto = Path(workspace, '_notes')
+SUBPAGE_START = 1
+SUBPAGE_END = 56
+notes_dir = '_notes'
+check_dir = check_dir(notes_dir)
+save_path = save_to(notes_dir)
+pages = range(SUBPAGE_START, SUBPAGE_END)
 
-# if dir _notes doesn't exist, it'll be created
-if os.path.isdir(saveto):
-    pass
-else:
-    saveto.mkdir()
-
-# range for subpages
-pages = range(1, 56)
-
-# list for post urls
-urls = []
-
-# going through every subpage
-for page in pages:
-    page = requests.get('https://doomhammersupposeserroneously.tumblr.com/page/' + str(page)).text
-    soup = BeautifulSoup(page, 'html.parser')
-
-    # grabbing all post <a> tagged
-    post = soup.find_all("a", attrs={"href": re.compile('^https://doomhammersupposeserroneously.tumblr.com/post/')})
-
-    # stripping <a> tagged from garbage and appending pure post links to the urls list
-    for link in post:
-        url = link.get('href')
-
-        urls.append(url)
-
-# going through every url in urls list to grab tagged and iframe
-for url in urls:
+for url in all_pages(pages):
     content = get_data(url)
+    write_posts(content, url, save_path)
 
-    # writing every note to a separate file with unique name, based on post url from tumblr
-    for entry in content:
-        note_file_name = url.split('/')[4] + '.md'
-        with open(saveto/note_file_name, 'w', encoding='utf-8') as f:
-            f.write(f"---\n"
-                    f"title: '{re.sub('[^0-9]', '', f.name)}'\n"
-                    f"---\n")
-            for key, value in content.items():
-                if type(value) is list:
-                    f.write(f"{key}: [[{']], [['.join(value)}]]")
-                else:
-                    f.write(f"\n{value}")
-                    f.close()
-
-# grabbing evey tag from every note and writing it a separate .md file
-for url in urls:
+for url in all_pages(pages):
     all_tags = get_tags(url)
     for tag in all_tags:
-        tag_file_name = tag + '.md'
-        with open(saveto/unidecode.unidecode(tag_file_name.replace(':', '-').replace(' ', '-').replace('  ', '-')),
-                  'w', encoding='utf-8') as f:
-            f.write('---\n'
-                    'layout: note\n'
-                    f'title: "{tag}"\n'
-                    '---')
-            f.close()
+        write_tags(tag, save_path)
