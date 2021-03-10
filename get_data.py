@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import re
 
 
 def get_data(url):
@@ -8,6 +9,12 @@ def get_data(url):
 
     # lists for iframe HTML and tags
     iframe = []
+    date_published = []
+
+    for item in re.finditer('datePublished":"(.+?)"', page):
+        date_published.append(item.group(1))
+    date_splitted = str(date_published).split('T')
+    date_decoded = str(date_splitted[0]).strip('[').replace("\'2", "2")
 
     # scraping for tagged without hashtags, pure text
     div = soup.find_all('div', attrs={'class': 'tags'})
@@ -20,7 +27,8 @@ def get_data(url):
 
     # making a dictionary out of tagged and iframe
     entry = {'tagged': tags,
-             'iframe': songs_links}
+             'iframe': songs_links,
+             'date': date_decoded}
     return entry
 
 
