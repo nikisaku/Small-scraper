@@ -10,6 +10,7 @@ def write_posts(content, url, save_path):
         f.write(f"---\n"
                 f"title: '{re.sub('[^0-9]', '', f.name)}'\n"
                 f"date: {date}\n"
+                f"last_modified_at: {date}\n"
                 f"---\n")
         for key, value in content.items():
             if type(value) is list:
