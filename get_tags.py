@@ -14,4 +14,4 @@ def get_tags(url):
 
 
 if __name__ == '__main__':
-    print(get_tags('https://doomhammersupposeserroneously.tumblr.com/post/190233642834'))
+    print(get_tags('https://doomhammersupposeserroneously.tumblr.com/post/190139084820'))
