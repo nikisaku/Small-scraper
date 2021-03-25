@@ -17,9 +17,9 @@ def get_title(url):
             break
         else:
             print(f"fail: {url}")
-            title_2 = get_title(url)
-            decoded_title.append(title_2)
-            print(f"appended title: {title_2}")
+            accurate_title = get_title(url)
+            decoded_title.append(accurate_title)
+            print(f"appended title: {accurate_title}")
 
         return decoded_title
 
