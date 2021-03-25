@@ -7,7 +7,7 @@ def write_posts(content, url, save_path, title):
     iframe = content.get('iframe')
     note_title = str(title).replace('[', '').replace(']', '')\
         .replace('\'', '').replace('\\', '').replace('+', 'with ')\
-        .replace(':', '').replace('\"', '').replace('||', '|')
+        .replace(':', '').replace('\"', '').replace('||', '|').replace(')', '').replace('(', '')
 
     with open(save_path/unidecode.unidecode(note_file_name), 'w', encoding='utf-8') as f:
         f.write(f"---\n"
@@ -22,3 +22,4 @@ def write_posts(content, url, save_path, title):
                 f.write(f"\n{iframe}")
                 break
         f.close()
+        print(note_file_name)
