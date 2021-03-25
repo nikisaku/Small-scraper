@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from unidecode import unidecode
 
 
 def get_title(url):
